@@ -13,7 +13,7 @@ def usr_input(name):
     npt = input("Hi " + name +", What do you want to do? \n(" + str(menu) + ")") 
     return npt.lower()
 
-## Console code
+## Console
 
 usr_name = input('Hi, Tell us your name! : ')
 
